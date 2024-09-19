@@ -16,7 +16,7 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="d-flex border border-danger">
+    <div className="d-flex ">
       {/* Sol Sidebar */}
       <nav
         className="min-vh-100 p-3  bg-cream"
